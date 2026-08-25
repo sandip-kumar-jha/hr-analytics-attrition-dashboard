@@ -309,23 +309,7 @@ These insights can help HR teams identify workforce segments that may require de
 ---
 
 ## 📸 Dashboard Preview
-
-Add the dashboard screenshot to the repository:
-
-```text
-images/
-└── hr-analytics-dashboard.png
-```
-
-Then add:
-
-```markdown
-## 📸 Dashboard Preview
-
-![HR Analytics Dashboard](images/hr-analytics-dashboard.png)
-```
-
----
+![Uploading Screenshot 2026-08-25 213212.png…]()
 
 ## 📂 Project Structure
 
