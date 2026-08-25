@@ -309,7 +309,8 @@ These insights can help HR teams identify workforce segments that may require de
 ---
 
 ## 📸 Dashboard Preview
-![Uploading Screenshot 2026-08-25 213212.png…]()
+<img width="1316" height="841" alt="Screenshot 2026-08-25 213212" src="https://github.com/user-attachments/assets/a1f624e1-d990-4fe7-b8dc-fd6d2480187b" />
+
 
 ## 📂 Project Structure
 
